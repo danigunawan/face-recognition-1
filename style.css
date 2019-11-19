@@ -12,9 +12,7 @@ canvas {
     position: absolute;
 }
 
-
-/* 
-video {
-    width: 720px;
-    height: 560px;
-} */
+.msg {
+    position: absolute;
+    top: 10%;
+}
