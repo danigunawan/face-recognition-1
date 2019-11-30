@@ -40,3 +40,7 @@ function getExpression(exp) {
         if (exp[e] === sExp[0]) { return e; } else return null;
     }
 }
+
+
+
+console.log('Welcome');
